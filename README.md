@@ -7,3 +7,4 @@
 ###### asset background for sky1.png: https://opengameart.org/
 ###### asset bullets : https://opengameart.org/content/mana-health-and-energy-icons
 ###### asset chicken : https://opengameart.org/content/lil-chick
+###### asset fireball ground : https://opengameart.org/content/fire-ball-pixel
