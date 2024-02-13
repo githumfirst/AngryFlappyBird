@@ -8,3 +8,4 @@
 ###### asset bullets : https://opengameart.org/content/mana-health-and-energy-icons
 ###### asset chicken : https://opengameart.org/content/lil-chick
 ###### asset fireball ground : https://opengameart.org/content/fire-ball-pixel
+###### asset bar & hear : https://github.com/Brackeys/Health-Bar/tree/master/Health%20Bar/Assets/Sprites
