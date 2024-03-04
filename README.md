@@ -1,4 +1,4 @@
-# AngryFlappyBird - Android Game Programming with Unity
+# Chicken Fight(닭싸움) - Android Game Programming with Unity
 ###### This game is made by internet surfing and algorithms and assest are from youtube and opensources. 
 ###### Belows are the sources. Thank you for their efforts.
 ###### referrence source: https://youtu.be/XtQMytORBmM?si=ucAOmN8wJppIOA-p
